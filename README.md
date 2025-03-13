@@ -56,11 +56,11 @@ Here’s what I work with:
 ---
 
 # 📊 GitHub Stats:  
-![Fiyi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fiyicodes&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![Fiyi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fiyicodes&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true)  
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fiyicodes&theme=dark&hide_border=false)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fiyicodes&theme=default&hide_border=false)  
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiyicodes&theme=dark&hide_border=false&layout=compact)  
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiyicodes&theme=default&hide_border=false&layout=compact)  
 
 ---
 
